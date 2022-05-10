@@ -8,7 +8,7 @@ IEEE transactions on Control Systems Technology, 2020.
 # Data
 the turbulence data is included in the folder "Data."
 
-# Useage
+# Usage
 run Main_DMAE_ADS_FDD_Turbulence.m
 
 
